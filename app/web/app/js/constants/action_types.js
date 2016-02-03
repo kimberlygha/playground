@@ -1,0 +1,3 @@
+module.exports = {
+  SEARCH_CRAIGSLIST: 'SEARCH_CRAIGSLIST'
+};
