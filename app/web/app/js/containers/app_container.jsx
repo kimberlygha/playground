@@ -44,7 +44,6 @@ AppContainer.propTypes = {
 };
 
 module.exports = connect((state) => {
-  console.log('[app_container] state: ', state);
   return {
     app: state.app
   };

@@ -1,4 +1,4 @@
-import { Input } from 'react-bootstrap';
+import {Input} from 'react-bootstrap';
 
 class App extends React.Component {
   constructor(props) {
@@ -6,7 +6,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log('[app] this.props: ', this.props);
     return (
       <div className='app'>
         <Input
