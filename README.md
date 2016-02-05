@@ -9,6 +9,7 @@
 
 ## Requirements
 * Node v5.X.X
+*Recommend using [n](https://github.com/tj/n) or [nvm](https://github.com/creationix/nvm)
 
 ## Usage
 * fork and clone repo
