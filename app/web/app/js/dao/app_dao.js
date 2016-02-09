@@ -2,7 +2,6 @@ import AjaxUtils from 'ajax_utils';
 import querystring from 'querystring';
 import Promise from 'bluebird';
 
-
 module.exports = {
   searchCraigslist: function() {
     let timeout;
